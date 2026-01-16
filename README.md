@@ -52,4 +52,3 @@ When modeling this system, do not treat the "Barista" as an isolated actor. Trea
 
 ---
 
-**Would you like me to create a causal loop diagram or a flow chart based on this description to visualize these connections?**
